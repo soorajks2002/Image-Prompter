@@ -16,4 +16,4 @@ def generate_prompt (keywords) :
             ]
         )
 
-    return response
+    return response["choices"][0]["message"]["content"]
