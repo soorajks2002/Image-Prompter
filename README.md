@@ -23,7 +23,7 @@ https://github.com/soorajks2002/Image-Prompter/assets/59795959/664e0506-8fa5-433
 Clone the project
 
 ```bash
-git clone https://github.com/soorajks2002/Image-Prompter
+git clone https://github.com/soorajks2002/Image-Prompter.git
 ```
 
 Go to the project directory
