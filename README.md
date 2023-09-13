@@ -45,7 +45,7 @@ Add your Openai api key
     open_ai_api_key = " api key (Open AI API key)"
 ```
 
-if you dont'have an acccess token, generate one from [here](https://platform.openai.com/account/api-keys).
+if you dont'have an OpenAI API-key, generate one from [here](https://platform.openai.com/account/api-keys).
 
 Start the application
 
